@@ -14,6 +14,7 @@ public class Star{
             else{
                 System.out.print(" ");
             }
+            int b =8;
         }
         System.out.println(" ");
     }
